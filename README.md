@@ -12,7 +12,7 @@
 🚀 Goals For 2026:
 - Build multiple Python projects
 - Learn and apply a second programming language through projects
-- Strengthen coding skills
+- Strengthen programming skills
 - Gain hands-on technical experience
 
 <!--
